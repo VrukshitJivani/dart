@@ -1,8 +1,9 @@
 void main(){
-    int num1=10;//it hold integer values
-    double decimalnum=10.5;//it hold decimal values
-    bool value=true;//it hold boolean values
-    String str="This is String";//it hold string values
+    int num1=10;//it hold integer values//8 byte//premetive
+    double decimalnum=10.5;//it hold decimal values//8 byte//premetive
+    bool value=true;//it hold boolean values//1 byte//premetive
+    String str="This is String";//it hold string values//2 byte per character//premetive
+    Null nul;//it can not hold value .it is nulleble //0 byte//primetive
     List<int> number=[10,20,30];//it hold list of integer values
     List<String> string=['as','wer','sdfv'];//it hold list of string values
     Map<String,int> mapval={

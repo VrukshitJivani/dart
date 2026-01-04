@@ -17,6 +17,8 @@ void main(){
     var isLoading=true;
     dynamic dy="hello";
     dynamic nom2=10.2;
+
+    
     print(num1);
     print(decimalnum);
     print(value);
@@ -31,4 +33,5 @@ void main(){
     print(isLoading);
     print(dy);
     print(nom2);
+    print(nul);
 }

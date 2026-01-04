@@ -11,6 +11,11 @@ void main(){
     };//it hold key value pair
     BigInt bigInt=BigInt.parse('1234567890123456789012345678902542554543134');//it hold very large integer values
     num num2=10;//it hold both int and double
+    var nom=13;
+    var strin="String";
+    var isLoading=true;
+    dynamic dy="hello";
+    dynamic nom2=10.2;
     print(num1);
     print(decimalnum);
     print(value);

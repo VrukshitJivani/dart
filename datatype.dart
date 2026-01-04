@@ -25,4 +25,9 @@ void main(){
     print(mapval);
     print(bigInt);
     print(num2);
+    print(nom);
+    print(strin);
+    print(isLoading);
+    print(dy);
+    print(nom2);
 }
